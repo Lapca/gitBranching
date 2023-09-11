@@ -7,6 +7,7 @@ public class Greeter {
         System.out.println("Hi, my name is" + name + " " + surname );
         System.out.println("Hi, my name is" + name + " " + surname );
     }
+    
     public Greeter() {
     }
 }
