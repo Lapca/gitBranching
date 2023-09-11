@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         Greeter greeter = new Greeter();
-        greeter.greet("Pavel");
+        greeter.greet("Pavel & Petr");
         AgePrinter agePrinter = new AgePrinter();
         agePrinter.count(25);
         HelloWorld helloWorld = new HelloWorld();
