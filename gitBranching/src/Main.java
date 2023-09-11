@@ -5,5 +5,7 @@ public class Main {
         greeter.greet();
         AgePrinter agePrinter = new AgePrinter();
         agePrinter.count(25);
+        HelloWorld helloWorld = new HelloWorld();
+        helloWorld.greetingsToWorld();
     }
 }
