@@ -4,6 +4,8 @@ public class Greeter {
     }
     public void greet(String name){
         System.out.println("Hi, my name is" + name);
+        System.out.println("Hi, my name is" + name);
+        System.out.println("Hi, my name is" + name);
     }
     public Greeter() {
     }

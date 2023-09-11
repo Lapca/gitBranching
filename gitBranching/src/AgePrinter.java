@@ -1,6 +1,5 @@
 public class AgePrinter {
     public void count(int age) {
-
         System.out.println("1");
         System.out.println("2");
     }
