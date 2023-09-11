@@ -11,16 +11,14 @@ public class Main {
         Cheerer cheerer = new Cheerer();
         cheerer.cheer("Slova!");
 
+
         System.out.println(future());
 
     }
 
     public static String future() {
 
-<<<<<<< HEAD
      return "fire rabit";
-=======
-     return "fire rabbit!";
->>>>>>> 4d07f0c (d3.1)
+
     }
 }
