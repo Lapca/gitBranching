@@ -2,21 +2,21 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         Greeter greeter = new Greeter();
-        greeter.greet();
+        greeter.greet("Pavel");
         AgePrinter agePrinter = new AgePrinter();
         agePrinter.count(25);
         HelloWorld helloWorld = new HelloWorld();
-        helloWorld.greetingsToWorld();
+        helloWorld.greetingsToWorld("Pavel");
 
         Cheerer cheerer = new Cheerer();
         cheerer.cheer("Slovak!");
 
-        future();
+        System.out.println(future());
 
     }
 
-    public static void future() {
+    public static String future() {
 
-        System.out.println("something");
+     return "fire rabbit";
     }
 }
