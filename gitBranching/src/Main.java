@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        greet();
+
+    }
+
+    private static void greet() {
+        System.out.println("Gusztav!");
     }
 }
