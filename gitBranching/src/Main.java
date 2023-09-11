@@ -10,5 +10,13 @@ public class Main {
 
         Cheerer cheerer = new Cheerer();
         cheerer.cheer();
+
+        future();
+
+    }
+
+    public static void future() {
+
+        System.out.println("something");
     }
 }
