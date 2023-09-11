@@ -11,12 +11,12 @@ public class Main {
         Cheerer cheerer = new Cheerer();
         cheerer.cheer("bytemasters!");
 
-        future();
+        System.out.println(future());
 
     }
 
-    public static void future() {
+    public static String future() {
 
-        System.out.println("something");
+     return "Pisces";
     }
 }
