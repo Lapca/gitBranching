@@ -6,10 +6,12 @@ public class Main {
         AgePrinter agePrinter = new AgePrinter();
         agePrinter.count(25);
         HelloWorld helloWorld = new HelloWorld();
-        helloWorld.greetingsToWorld("!!Pavel!!");
+        helloWorld.greetingsToWorld("Pavel", "Caska");
 
         Cheerer cheerer = new Cheerer();
-        cheerer.cheer("Slova!");
+        cheerer.cheer("Slova!", "Yo!");
+
+
 
         System.out.println(future());
 
@@ -17,6 +19,7 @@ public class Main {
 
     public static String future() {
 
-     return "fire rabit";
+     return "fire rabbit has changed!";
+
     }
 }
