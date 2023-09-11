@@ -1,6 +1,6 @@
 public class Cheerer {
 
-    public void cheer(String string) {
-        System.out.println(string);
+    public void cheer(String string1, String string2) {
+        System.out.println(string1 + " : " + string2);
     }
 }

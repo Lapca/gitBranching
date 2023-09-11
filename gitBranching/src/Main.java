@@ -9,7 +9,7 @@ public class Main {
         helloWorld.greetingsToWorld("!!Pavel!!");
 
         Cheerer cheerer = new Cheerer();
-        cheerer.cheer("Slova!");
+        cheerer.cheer("Slova!", "Yo!");
 
         System.out.println(future());
 
