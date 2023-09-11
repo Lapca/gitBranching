@@ -17,6 +17,10 @@ public class Main {
 
     public static String future() {
 
+<<<<<<< HEAD
      return "fire rabit";
+=======
+     return "fire rabbit!";
+>>>>>>> 4d07f0c (d3.1)
     }
 }
