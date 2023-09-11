@@ -11,6 +11,7 @@ public class Main {
         Cheerer cheerer = new Cheerer();
         cheerer.cheer("Slova!", "Yo!");
 
+
         System.out.println(future());
 
     }
