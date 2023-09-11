@@ -3,9 +3,9 @@ public class Greeter {
         System.out.println("Hi, my name is Martin");
     }
     public void greet(String name){
-        System.out.println("Hi, my name is" + name);
-        System.out.println("Hi, my name is" + name);
-        System.out.println("Hi, my name is" + name);
+        System.out.println("Greetings for the" + name);
+        System.out.println("Greetings for the" + name);
+        System.out.println("Greetings for the" + name);
     }
     public Greeter() {
     }
