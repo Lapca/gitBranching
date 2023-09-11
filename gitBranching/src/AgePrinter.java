@@ -3,9 +3,12 @@ public class AgePrinter {
         System.out.println("My age is: " + age);
     }
 
-    public static void main(String[] args) {
-        AgePrinter printer = new AgePrinter();
+//    public static void main(String[] args) {
+//        AgePrinter printer = new AgePrinter();
+//
+//        printer.count(25);
+//    }
 
-        printer.count(25);
+    public AgePrinter() {
     }
 }
