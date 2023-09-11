@@ -1,6 +1,6 @@
 public class Cheerer {
 
-    public void cheer() {
-        System.out.println("bytemasters");
+    public void cheer(String string) {
+        System.out.println(string);
     }
 }
