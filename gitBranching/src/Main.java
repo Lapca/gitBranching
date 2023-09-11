@@ -18,7 +18,7 @@ public class Main {
 
     public static String future() {
 
-     return "fire rabit";
+     return "fire rabbit has changed!";
 
     }
 }
