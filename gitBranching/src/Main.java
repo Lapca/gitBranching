@@ -7,5 +7,8 @@ public class Main {
         agePrinter.count(25);
         HelloWorld helloWorld = new HelloWorld();
         helloWorld.greetingsToWorld();
+
+        Cheerer cheerer = new Cheerer();
+        cheerer.cheer();
     }
 }
