@@ -1,7 +1,7 @@
 public class HelloWorld {
-    public void greetingsToWorld() {
+    public void greetingsToWorld(String name) {
 
-        System.out.println("Hello World from Pavel");
+        System.out.println("Hello World from " + name);
 
     }
 }
